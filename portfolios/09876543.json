@@ -1,0 +1,37 @@
+{
+  "habilidades": [
+    {
+      "nombre": "Java",
+      "nivel": "Intermedio"
+    }
+  ],
+  "estudios": [
+    {
+      "titulo": "Ingeniería Informática",
+      "institucion": "Universidad Tecnológica",
+      "fechaInicio": "2019-09-01T00:00:00.000Z",
+      "fechaFin": "2023-06-15T00:00:00.000Z"
+    }
+  ],
+  "experiencias": [
+    {
+      "empresa": "Innovatech",
+      "puesto": "Desarrollador Backend",
+      "fechaInicio": "2022-07-01T00:00:00.000Z",
+      "fechaFin": "2023-06-30T00:00:00.000Z",
+      "descripcion": "Desarrollo de aplicaciones web con Java y Spring"
+    }
+  ],
+  "expectativas": [
+    {
+      "descripcion": "Busco trabajo en empresa de tecnología",
+      "salarioEsperado": 50000,
+      "modalidad": "Remoto"
+    }
+  ],
+  "dni": "09876543",
+  "nombre": "Lucía",
+  "apellido": "Martínez",
+  "email": "lucia@email.com",
+  "telefono": "098765432"
+}

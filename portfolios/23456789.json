@@ -1,0 +1,39 @@
+{
+  "habilidades": [
+    {
+      "nombre": "Python",
+      "nivel": "Avanzado"
+    },
+    {
+      "nombre": "JavaScript",
+      "nivel": "Intermedio"
+    },
+    {
+      "nombre": "SQL",
+      "nivel": "Avanzado"
+    }
+  ],
+  "estudios": [
+    {
+      "titulo": "Ingeniería en Sistemas",
+      "institucion": "Universidad Nacional",
+      "fechaInicio": "2018-03-01T00:00:00.000Z",
+      "fechaFin": "2023-12-15T00:00:00.000Z"
+    }
+  ],
+  "experiencias": [
+    {
+      "empresa": "TechCorp",
+      "puesto": "Desarrolladora Backend",
+      "fechaInicio": "2022-01-01T00:00:00.000Z",
+      "fechaFin": "2023-12-31T00:00:00.000Z",
+      "descripcion": "Desarrollo de APIs y microservicios"
+    }
+  ],
+  "expectativas": [],
+  "dni": "23456789",
+  "nombre": "MaríA José",
+  "apellido": "GarcíA",
+  "email": "maria@email.com",
+  "telefono": "123456789"
+}

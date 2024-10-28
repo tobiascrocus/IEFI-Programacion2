@@ -1,0 +1,37 @@
+{
+  "habilidades": [
+    {
+      "nombre": "JavaScript",
+      "nivel": "Intermedio"
+    }
+  ],
+  "estudios": [
+    {
+      "titulo": "Ingeniería en Sistemas",
+      "institucion": "Universidad Tecnológica",
+      "fechaInicio": "2019-09-01T00:00:00.000Z",
+      "fechaFin": "2023-06-15T00:00:00.000Z"
+    }
+  ],
+  "experiencias": [
+    {
+      "empresa": "Innovatech",
+      "puesto": "Desarrollador Frontend",
+      "fechaInicio": "2022-07-01T00:00:00.000Z",
+      "fechaFin": "2023-06-30T00:00:00.000Z",
+      "descripcion": "Desarrollo de aplicaciones web con React y JavaScript"
+    }
+  ],
+  "expectativas": [
+    {
+      "descripcion": "Busco trabajo en empresa de tecnología",
+      "salarioEsperado": 40000,
+      "modalidad": "Remoto"
+    }
+  ],
+  "dni": "87654321",
+  "nombre": "Carlos",
+  "apellido": "Rodríguez",
+  "email": "carlos@email.com",
+  "telefono": "987654321"
+}

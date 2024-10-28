@@ -1,0 +1,37 @@
+{
+  "habilidades": [
+    {
+      "nombre": "Python",
+      "nivel": "Intermedio"
+    }
+  ],
+  "estudios": [
+    {
+      "titulo": "Ingeniería Informática",
+      "institucion": "Universidad Tecnológica",
+      "fechaInicio": "2018-09-01T00:00:00.000Z",
+      "fechaFin": "2022-06-15T00:00:00.000Z"
+    }
+  ],
+  "experiencias": [
+    {
+      "empresa": "Innovatech",
+      "puesto": "Desarrollador Full Stack",
+      "fechaInicio": "2022-07-01T00:00:00.000Z",
+      "fechaFin": "2023-06-30T00:00:00.000Z",
+      "descripcion": "Desarrollo de aplicaciones web con Python y Django"
+    }
+  ],
+  "expectativas": [
+    {
+      "descripcion": "Busco trabajo en empresa de tecnología",
+      "salarioEsperado": 50000,
+      "modalidad": "Remoto"
+    }
+  ],
+  "dni": "43210987",
+  "nombre": "Mario",
+  "apellido": "García",
+  "email": "mario@email.com",
+  "telefono": "432109876"
+}

@@ -1,0 +1,39 @@
+{
+  "habilidades": [
+    {
+      "nombre": "JavaScript",
+      "nivel": "Avanzado"
+    },
+    {
+      "nombre": "HTML/CSS",
+      "nivel": "Avanzado"
+    },
+    {
+      "nombre": "React",
+      "nivel": "Intermedio"
+    }
+  ],
+  "estudios": [
+    {
+      "titulo": "Ingeniería en Sistemas",
+      "institucion": "Universidad Nacional",
+      "fechaInicio": "2018-03-01T00:00:00.000Z",
+      "fechaFin": "2023-12-15T00:00:00.000Z"
+    }
+  ],
+  "experiencias": [
+    {
+      "empresa": "TechCorp",
+      "puesto": "Desarrollador Full Stack",
+      "fechaInicio": "2022-01-01T00:00:00.000Z",
+      "fechaFin": "2023-12-31T00:00:00.000Z",
+      "descripcion": "Desarrollo de aplicaciones web"
+    }
+  ],
+  "expectativas": [],
+  "dni": "12345678",
+  "nombre": "Juan",
+  "apellido": "PéRez",
+  "email": "juan@email.com",
+  "telefono": "123456789"
+}
